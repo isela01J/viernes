@@ -11,10 +11,15 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
 
-            string 'isela',
-            int uno='1',
                 havia UnauthorizedAccessException ves un barco chikitito
                     habia una ves un barco chikitioo
+
+                        foreber and necvern nenvenvnmf vnhrhjkhgu4u54b2h jn542g jhz5
+                             havia UnauthorizedAccessException ves un barco chikitito
+                    habia una ves un barco chikitioo
+
+                        foreber and necvern nenvenvnmf vnhrhjkhgu4u54b2h jn542g jhz5
+
 
         }
     }
