@@ -13,6 +13,8 @@ namespace ConsoleApplication2
 
             string 'isela',
             int uno='1',
+                havia UnauthorizedAccessException ves un barco chikitito
+                    habia una ves un barco chikitioo
 
         }
     }
